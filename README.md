@@ -1,0 +1,1 @@
+# Joomla_obfuscate_content
